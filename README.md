@@ -22,8 +22,6 @@ AI Realistic Image Creator is a tool to generate realistic images without defect
 
 ![created_image (16)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/836ad5b5-65fb-41fb-9453-80e36ce96394)
 
-![created_image (11)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/2ddaf79c-b1b3-4f7c-a935-f667a5d1d538)
-
 ## Features 🚀
 
 + Very realistic image generation.

@@ -8,8 +8,6 @@ AI Realistic Image Creator is a tool to generate realistic images without defect
 
 ![created_image (21)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/5a30ded2-9aee-49ec-8a70-811bddc38db3)
 
-![created_image (20)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/1fa00671-32af-4c9a-a5c0-91f43664703d)
-
 ![created_image (19)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/989912a6-c35c-4eb1-8e55-d7b7b022616e)
 
 ![created_image (18)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/4b54b8bc-8225-4288-8e65-cfa96c95c436)
@@ -19,8 +17,6 @@ AI Realistic Image Creator is a tool to generate realistic images without defect
 ![created_image (12)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/eb425eee-5663-47fb-b371-bdd5135417dc)
 
 ![created_image (13)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/14f46ecd-0ef4-42e9-b7c6-8ffd351f390d)
-
-![created_image (14)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/d314847f-b7f9-43a6-bf96-b3bd3987255a)
 
 ![created_image (15)](https://github.com/henszac/AI-Realistic-Image-Creator-PHP/assets/166815874/5d98e1e0-d4fb-4a5f-91b1-f9666d00179b)
 

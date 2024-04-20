@@ -1,6 +1,6 @@
 # AI Realistic Image Creator 🤖 🖼️
 
-AI Realistic Image Creator is a tool to generate realistic images without defects.
+AI Realistic Image Creator is a tool to generate realistic images without defects using artifical intelligence.
 
 ![img](https://github.com/henszac/AI-Realistic-Image-Creator/assets/166815874/44475c1b-fc81-453e-9f4c-ca7694571b12)
 

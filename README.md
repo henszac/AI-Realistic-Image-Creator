@@ -24,7 +24,7 @@ AI Realistic Image Creator is a tool to generate realistic images without defect
 
 ## Features 🚀
 
-+ Very realistic image generation.
++  Realistic style image generation.
 + Generate to any size.
 + Download the generated image to .png format.
 + No installation required.

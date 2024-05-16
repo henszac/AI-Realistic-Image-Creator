@@ -32,7 +32,7 @@ AI Realistic Image Creator is a tool to generate realistic images without defect
 
  ## Buy the source code 💻
 
-If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in PHP and includes information on how to configure it and how to configure the pretrained model or the API.
+If you are interested in purchasing this project, you can purchase it by purchasing the source code of this application. The application is made in PHP and includes information on how to configure it and how to configure the model.
 
 Contact: **https://t.me/henszac** or **contact@henszac.com**
 
